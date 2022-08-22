@@ -1,9 +1,9 @@
 # Calculator application
 
 This is basic calculator application.
-Create by: Mr.Supakij Buasod
-Create date: 21/08/2022
-Last update: 22/08/2022 
+- Create by: Mr.Supakij Buasod
+- Create date: 21/08/2022
+- Last update: 22/08/2022 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
